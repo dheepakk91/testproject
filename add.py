@@ -1,3 +1,3 @@
 a = 1000
-b = 2
-print(a + b)
+b = 21
+print(a * b)
